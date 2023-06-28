@@ -17,5 +17,5 @@
 
 ### 👩‍💻 My Github
 
-![HJKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![HJKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJKim423&show_icons=true&theme=radical)
 
