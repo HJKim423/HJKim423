@@ -19,3 +19,5 @@
 
 ![HJKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJKim423&show_icons=true&theme=radical)
 
+
+2023. 03 ~ 05 기간 동안은 외주 프로젝트를 비공개 레포지토리에서 진행하여 잔디가 비어있습니다. 🥲😓
