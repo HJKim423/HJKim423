@@ -11,6 +11,7 @@
 ![HJKim's GitHub stats](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
+![HJKim's GitHub stats](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
 ![HJKim's GitHub stats](https://img.shields.io/badge/recoil-3178C6?style=for-the-badge&logo=recoil&logoColor=white)
 ![HJKim's GitHub stats](https://img.shields.io/badge/axios-854195?style=for-the-badge&logo=axios&logoColor=white)
 
